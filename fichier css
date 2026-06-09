@@ -1,0 +1,10 @@
+body{
+    font-family: georgia,serif;
+    color:lightgray;
+}
+.banner{
+    background-image:url(im0.png);
+    height: 200px;
+    background-position: auto;
+    background-repeat: no-repeat;
+}
